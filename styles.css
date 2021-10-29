@@ -1,0 +1,261 @@
+body {
+    max-width: 100%;
+    font-family: "vollkorn";
+    background-color: rgb(255, 255, 255);
+}
+
+.nome {
+    margin: 30px;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+
+
+
+
+
+.navbar {
+    background: linear-gradient(135deg,#8844ee,#b07dfb);
+    text-align: center;
+}
+
+
+
+.minha_foto {
+    width: 100px;
+    border-radius: 50%;
+}
+
+
+
+.quem_sou {
+    text-align: center;
+    display: flex;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+    
+    
+}
+
+.skills {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 960px;
+    height: 100%;
+    background: linear-gradient(135deg,#8844ee,#b07dfb);
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+.programaçao_detalhada {
+    text-align: center;
+}
+
+.col-lg-4 {
+    align-items: center;
+    justify-content: left;
+    margin: 10px 15px 10px;
+}
+
+.container .dados_pessoais {
+    width: 960px;
+    margin: 0 auto;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.dados_pessoais {
+
+    font-size: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: justify;
+    
+}
+
+.cursos {
+    text-align: center;
+    background: linear-gradient(135deg,#8844ee,#b07dfb);
+    border-radius: 5px;
+}
+
+
+.container.curso_formacao {
+    width: 960px;
+    margin: 0 auto ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align:justify;
+    font-weight: bolder;
+   
+}
+
+
+.container.ti {
+    width: 960px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight:bolder;
+    text-align: justify;
+    
+
+}
+
+.tia {
+    text-align: center;
+    background: linear-gradient(135deg,#8844ee,#b07dfb);
+    border-radius: 5px;
+}
+
+.tias {
+    text-align: center;
+    background: linear-gradient(135deg,#8844ee,#b07dfb);
+    border-radius: 5px;
+}
+
+.container.background {
+    text-align: justify;
+    font-weight: bolder;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+.tiago {
+    width: 960px;
+    height: 100%;
+    background: linear-gradient(135deg,#8844ee,#b07dfb);
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+.caracteristicas {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 10px;
+    justify-content: space-evenly;
+    
+  }
+  
+  .caracteristicas > div {
+    width: 80px;
+    text-align: center;
+    background: linear-gradient(135deg, #8844ee, #b07dfb);
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
+    position: relative;
+  }
+  
+  .caracteristicas > div:first-child {
+    margin-right: 30px;
+  }
+  
+  .caracteristicas span {
+    display: block;
+    color: #b07dfb;
+  }
+
+
+.numero {
+    font-size: 3em;
+    line-height: 1;
+    margin: 10px auto;
+  }
+  
+  .rotulo {
+    background: white;
+    border-radius: 0 0 5px 5px;
+    padding: 5px 0;
+    position: relative;
+    top: 2px;
+  }
+.container-fluid {
+    align-items: center;
+    width: 960px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight:bolder;
+    text-align: justify;
+
+}
+
+.container_img {
+   width: 350px ;
+   display: grid;
+   margin-left: 300px;
+   grid-template-columns:1fr ;
+   border-radius: 0 0 5px 5px ;
+   background: linear-gradient(135deg, #8844ee, #b07dfb);
+   border-radius: 5px;
+   box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
+   justify-items: center;
+   color: azure;
+}
+
+
+img.site {
+   margin: 10px 10px 30px 10px 10px;
+   max-width: max-content;
+   margin-bottom: 30px;
+   
+}
+
+a.shoppe:hover {
+    margin-left: 100px;
+    color: azure;
+    
+}
+
+
+.loja {
+    color: rgb(0, 0, 0);
+}
+
+.container_conteudo {
+    max-width: 960px;
+    height: 182px;
+    justify-content: center;
+}
+
+.container_fotos {
+    max-width: 960px;
+    min-width: 300px;
+}
+
+.container_fotos img {
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+.footer p {
+    color: rgb(10, 10, 10);
+    text-align: center;
+    padding: 30px;
+    background: linear-gradient(135deg, #8844ee, #b07dfb);
+}
+
+.scratch {
+    max-width: 960px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.jog {
+    text-align: center;
+    background: linear-gradient(135deg, #8844ee, #b07dfb);
+    max-width: 85%;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
